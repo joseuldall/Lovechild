@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    cursor: url("rund01.png"), auto;
+    overflow: hidden;
+    
+}
+.myvideo {
+    position: fixed;
+    left: 0;
+    top: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+.logo{
+    position: fixed;
+    left: 0;
+    top: 30px;
+    width: 100%;
+    pointer-events:none;
+}
+
+#myvideo01{
+    
+}
